@@ -1,0 +1,27 @@
+[project]
+name = "machine-learning-crisis-early-warning"
+version = "0.1.0"
+description = "Add your description here"
+readme = "README.md"
+requires-python = ">=3.11"
+dependencies = [
+    "comtradeapicall>=1.3.2",
+    "country-converter>=1.3.2",
+    "duckdb>=2.0.0",
+    "fredapi>=0.5.2",
+    "global-macro-data>=2.0.0",
+    "lightgbm>=4.7.0",
+    "matplotlib>=3.11.2",
+    "networkx>=3.6.1",
+    "numpy>=2.4.6",
+    "openpyxl>=3.1.5",
+    "pandas>=3.1.0",
+    "pyarrow>=26.0.0",
+    "python-dotenv>=1.2.4",
+    "requests>=2.34.2",
+    "scikit-learn>=1.9.1",
+    "shap>=0.51.0",
+    "statsmodels>=0.15.0",
+    "wbgapi>=1.0.14",
+    "xlrd>=2.0.2",
+]
